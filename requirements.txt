@@ -1,0 +1,14 @@
+albumentations
+matplotlib
+numpy<2
+opencv-python
+pandas
+pillow
+python-dotenv
+roboflow
+torch==2.2.0+cu118
+torchaudio==2.2.0+cu118
+torchmetrics
+torchvision==0.17.0+cu118
+ultralytics
+-f https://download.pytorch.org/whl/torch_stable.html

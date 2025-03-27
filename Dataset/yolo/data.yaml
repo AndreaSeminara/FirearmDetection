@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pistol']
+
+roboflow:
+  workspace: school-akm8n
+  project: pistol-detection-5it8y
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/school-akm8n/pistol-detection-5it8y/dataset/1

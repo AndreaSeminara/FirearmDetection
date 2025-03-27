@@ -1,0 +1,5 @@
+Dataset/*/train
+Dataset/*/valid
+Models
+predictions
+.env
