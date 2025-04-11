@@ -12,7 +12,7 @@ Questo progetto implementa sistemi di rilevamento automatico di pistole in immag
 ├── Dataset/             # Dataset organizzati per i diversi modelli
 │   ├── fasterrcnn/      # Dataset formattato per Faster R-CNN
 │   └── yolo/            # Dataset formattato per YOLOv11
-├── Demo/                # Notebook dimostrativi e immagini di esempio
+├── Demo/                # Notebook dimostrativi, video dimostrativo e immagini di esempio
 ├── Models/              # Modelli addestrati salvati
 └── Performance/         # Grafici e metriche di performance
 ```
